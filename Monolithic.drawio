@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T23:54:49.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vWLSKgg9LRLEh_4IoNlD" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T23:55:51.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WnEcotc4AtlrzVxCmGNR" version="16.3.0" type="github">
   <diagram id="dXgJCDw-G9MJAKwI7SdL" name="Page-1">
     <mxGraphModel dx="1438" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="0WkmEpZrH0iJRa9MUKhW-1" value="&lt;h1&gt;Functional requirements&lt;/h1&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;List Products&lt;/li&gt;&lt;li&gt;Filter products by brand and categories&lt;/li&gt;&lt;li&gt;Place products into the shopping cart&lt;/li&gt;&lt;li&gt;Apply coupon for discounts and see the total cost for all the items in the shopping cart.&lt;/li&gt;&lt;li&gt;Checkout the shopping cart and create an order&lt;/li&gt;&lt;li&gt;List my old orders and order items history.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="61" width="337" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="0WkmEpZrH0iJRa9MUKhW-2" value="&lt;h1&gt;Principles&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;KISS - Keep It Simple Stupid&lt;/div&gt;&lt;div&gt;YAGNI - You ain&#39;t Going to Need it&lt;/div&gt;&lt;div&gt;DRY - Dont Repeat Yourself&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="61" width="204" height="120" as="geometry" />
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-2" value="&lt;h1&gt;Principles&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;KISS - Keep It Simple Stupid&lt;/li&gt;&lt;li&gt;YAGNI - You ain&#39;t Going to Need it&lt;/li&gt;&lt;li&gt;DRY - Dont Repeat Yourself&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="61" width="242" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0WkmEpZrH0iJRa9MUKhW-3" value="&lt;h1&gt;Monolithic Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-11" y="8" width="333" height="35" as="geometry" />
