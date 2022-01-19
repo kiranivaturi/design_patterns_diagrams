@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T23:55:51.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WnEcotc4AtlrzVxCmGNR" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T00:06:04.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2p7s_hBNQU3Y4v-SFoxg" version="16.3.0" type="github">
   <diagram id="dXgJCDw-G9MJAKwI7SdL" name="Page-1">
     <mxGraphModel dx="1438" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,14 +19,35 @@
         <mxCell id="0WkmEpZrH0iJRa9MUKhW-5" value="&lt;b&gt;Client&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-173" y="317" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0WkmEpZrH0iJRa9MUKhW-6" value="&lt;b&gt;E-Commerce Application&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="57" y="211" width="120" height="174" as="geometry" />
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-6" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;E-Commerce Application&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="23" y="168" width="150" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="0WkmEpZrH0iJRa9MUKhW-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;" edge="1" parent="1">
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-10" value="&lt;b&gt;RDBMS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="262" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-13" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-99" y="302" as="sourcePoint" />
-            <mxPoint x="51" y="302" as="targetPoint" />
+            <mxPoint x="-113" y="304" as="sourcePoint" />
+            <mxPoint x="15" y="304" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-14" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="304" as="sourcePoint" />
+            <mxPoint x="275" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-15" value="Shop UI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="38" y="229" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-17" value="Catalog Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="38" y="278" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-18" value="SC Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="38" y="339" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0WkmEpZrH0iJRa9MUKhW-19" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="38" y="387" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
